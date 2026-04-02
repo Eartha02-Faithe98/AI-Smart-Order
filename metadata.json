@@ -1,0 +1,5 @@
+{
+  "name": "AI Smart Order",
+  "description": "AI-powered multiplayer food and drink ordering system",
+  "requestFramePermissions": ["camera"]
+}
